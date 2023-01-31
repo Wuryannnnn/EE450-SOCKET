@@ -4,7 +4,7 @@
 - [Socket Programming Project](#socket-programming-project)
 - [Student Info](#student-info)
   - [Student Name: Rui Wu](#student-name)
-  - [StudentID: 1126933283](#studentid)
+  - [StudentID: *********](#studentid)
 - [My work](#My Work)
 - [How to run?](#how-to-run)
 - [How does it work?](#how-does-it-work)
@@ -16,7 +16,7 @@
 
 # Student Info
 ## Student Name: Rui Wu
-## StudentID: 1126933283
+## StudentID: *******
 <br>
 
 #My work
